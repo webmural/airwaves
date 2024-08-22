@@ -15,11 +15,11 @@
 }
 
 :root {
-  --tape-filter: hue-rotate(-72deg);
+  --tape-filter: hue-rotate(-36deg);
 }
 
 .riot {
-  --tape-yellow: #e40;
+  --tape-yellow: #ec0;
 }
 
 html {
